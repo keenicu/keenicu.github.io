@@ -3,4 +3,4 @@
 
 
 credits:
-@zxvnme - site source
+[zxvnme](https://github.com/zxvnme/zxvnme.github.io) - original source of the side
