@@ -1,2 +1,1 @@
 # keenicu.github.io
-# dupsko
